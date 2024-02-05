@@ -1,0 +1,23 @@
+:root{
+    background-color: #232323;
+    color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, dt{
+    text-transform: uppercase;
+}
+h3{
+    margin-bottom: 0;
+}
+
+body{
+    margin: auto;
+    max-width: 400px;
+}
+
+dt{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
